@@ -45,4 +45,4 @@ The project demonstrates backend development, database management, and basic fro
 - Bootstrap (если юзал)
 
 ---
-
+My contacts: Telegram:@mmxcyed9, Instagram:mmxcyed, WhatsApp:+4915252343249.
