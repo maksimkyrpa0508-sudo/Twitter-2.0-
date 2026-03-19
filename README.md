@@ -46,5 +46,3 @@ The project demonstrates backend development, database management, and basic fro
 
 ---
 
-## 📂 Project Structure
-
